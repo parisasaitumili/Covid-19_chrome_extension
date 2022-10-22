@@ -6,4 +6,5 @@
 ### The view of the Project is Shown Below
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/106407073/197333665-e888c0de-748d-4f38-890f-0d000e496017.png">
 
-
+#### Name of the Contributer :Sai Tumili
+#### Conclusion :The chrome extension is fully functional and ready to use on the daily basis.
