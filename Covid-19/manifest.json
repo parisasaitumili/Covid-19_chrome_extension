@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "COVID 19",
+  "version": "1.0.0",
+  "description": "Covid-19 INDIA",
+  "icons": {
+    "128": "coronavirus.png"
+  },
+  "action": {
+    "default_title": "Covid 19",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTabs", "http://*/*", "https://*/*"]
+}
